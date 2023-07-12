@@ -8,3 +8,5 @@ class Read_file:
                 valores = linha.split('|')
                 linhas.append(valores)
         return linhas
+
+
